@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @summer-breeze-ego
 - 👀 I’m interested in making apps that help make life more interesting and/or enjoyable
-- 🌱 I’m currently learning Swift(UI), Xcode and SQL
+- 🌱 I’m currently learning Swift(UI), Xcode and SQL - also solidifying my Python knowledge
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
